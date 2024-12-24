@@ -1,6 +1,6 @@
 <br>
 
-# From Homo Sapiens to Homo Galacticus 
+# <p align="center"> From Homo Sapiens to Homo Galacticus 
  
 <br>
 
