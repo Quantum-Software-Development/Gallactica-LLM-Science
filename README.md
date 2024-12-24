@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center"> From Homo Sapiens to Homo Galacticus 
+# <p align="center"> Galactica a LLM for Sciuence
 ### <p align="center"> Absolute Quantum Mechanics
  
 <br>
