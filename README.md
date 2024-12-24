@@ -2,7 +2,7 @@
 
 ## <p align="center"> Galactica a LLM for Science
 ### <p align="center"> Absolute Quantum Mechanics
-### The Physics and Philosophy of Dr. Delbert Larson - [Access HTML Here](https://github.com/Quantum-Software-Development/HomoGallacticus/blob/a95f2c01ec64227021f662db4391cbbc5ccd08f4/Absolute%20Quantum%20Mechanics.html)
+### <p align="center"> The Physics and Philosophy of Dr. Delbert Larson - [Access HTML Here](https://github.com/Quantum-Software-Development/HomoGallacticus/blob/a95f2c01ec64227021f662db4391cbbc5ccd08f4/Absolute%20Quantum%20Mechanics.html)
  
 <br>
 
