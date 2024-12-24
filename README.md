@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center"> Galactica a LLM for Sciuence
+## <p align="center"> Galactica a LLM for Science
 ### <p align="center"> Absolute Quantum Mechanics
  
 <br>
