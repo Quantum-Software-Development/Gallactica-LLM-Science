@@ -1,7 +1,7 @@
 <br>
 
 # <p align="center"> From Homo Sapiens to Homo Galacticus 
-### Absolute Quantum Mechanics
+### <p align="center"> Absolute Quantum Mechanics
  
 <br>
 
